@@ -93,6 +93,16 @@ Output: "SPAM" or "HAM" is displayed on the UI
 
 
 
+<img width="725" alt="Screenshot 2025-06-25 at 9 56 33 PM" src="https://github.com/user-attachments/assets/5cf74d64-32d3-4c77-a84c-1930566d70c8" />
+
+
+
+<img width="668" alt="Screenshot 2025-06-25 at 9 56 54 PM" src="https://github.com/user-attachments/assets/da7313ff-fee9-425c-b824-e8c97a93715a" />
+
+
+
+
+
 
 
 📌 Final Notes
